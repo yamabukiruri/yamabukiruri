@@ -6,7 +6,7 @@
 
 </div>
 
-## 🌟 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Glowing%20Star.webp" alt="Glowing Star" width="25" height="25" /> About Me
 
 Hi! I'm **Haika（yamabukiruri）** !
 
@@ -15,7 +15,7 @@ Hi! I'm **Haika（yamabukiruri）** !
 
 ---
 
-## 🌟 Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Glowing%20Star.webp" alt="Glowing Star" width="25" height="25" /> Tech Stack
 
 <div >
 
@@ -64,7 +64,7 @@ Hi! I'm **Haika（yamabukiruri）** !
 
 ---
 
-## 🌟 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Glowing%20Star.webp" alt="Glowing Star" width="25" height="25" /> GitHub Stats
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Hi! I'm **Haika（yamabukiruri）** !
 
 ---
 
-## 🌟 Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Glowing%20Star.webp" alt="Glowing Star" width="25" height="25" /> Activity
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Hi! I'm **Haika（yamabukiruri）** !
 
 <!-- <div align="center">
 
-## 🌟 訪問者数 Visitor Count
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Glowing%20Star.webp" alt="Glowing Star" width="25" height="25" /> 訪問者数 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/yamabukiruri/count.svg) -->
 

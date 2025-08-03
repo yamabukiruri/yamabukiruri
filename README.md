@@ -17,23 +17,42 @@ Hi! I'm **Haika（yamabukiruri）** !
 
 ## 🌟 Tech Stack
 
-<div">
+<div >
+
+<table>
+<tr>
+<td align="center">
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 
+</td>
+<td align="center">
+
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=golang,php" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
 
 ### Database
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
+</td>
+<td align="center">
+
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,vscode,docker" />
+
+</td>
+</tr>
+</table>
 
 ### Others
 

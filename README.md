@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌙 Welcome to My Profile 🌙
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Welcome to My Profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting%21" alt="Typing SVG" />
 

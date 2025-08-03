@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting%21" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 </div>
 
 ## 🌟 About Me
@@ -58,7 +56,7 @@ Hi! I'm **Haika（yamabukiruri）** !
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yamabukiruri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=4169E1&title_color=87CEEB&icon_color=4169E1&text_color=9f9f9f&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamabukiruri&layout=compact&langs_count=7&theme=tokyonight&border_color=4169E1&title_color=87CEEB&text_color=9f9f9f&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamabukiruri&layout=compact&langs_count=7&theme=tokyonight&count_private=true&border_color=4169E1&title_color=87CEEB&text_color=9f9f9f&bg_color=0d1117"/>
 
 </div>
 
@@ -79,14 +77,6 @@ Hi! I'm **Haika（yamabukiruri）** !
 ## 🌟 訪問者数 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/yamabukiruri/count.svg) -->
-
-### 🌙 Thank you for visiting! 🌙
-
-```
-    🌟                                      🌟
-  🌟    ✨ Thank you for visiting ✨    🌟
-    🌟                                      🌟
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20&height=100&section=footer&text=&fontSize=50" width="100%"/>
 

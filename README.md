@@ -17,25 +17,25 @@ Hi! I'm **Haika（yamabukiruri）** !
 
 ## 🌟 Tech Stack
 
-<div align="center">
+<div">
 
-### フロントエンド Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 
-### バックエンド Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=golang,php" />
 
-### データベース Database
+### Database
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### ツール Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,vscode,docker" />
 
-### その他 Others
+### Others
 
 - **Cursor** (AI-powered code editor)
 - **Orbstack** (Docker alternative)

@@ -10,8 +10,8 @@
 
 Hi! I'm **Haika（yamabukiruri）** !
 
-- Job: **Web Engineer**
-- Like: **React**, **TypeScript**, **Go**
+- Job: **Web Engineer(2023.10~)**
+- Use: **React**, **TypeScript**, **Go**
 
 ---
 
@@ -21,30 +21,25 @@ Hi! I'm **Haika（yamabukiruri）** !
 
 ### フロントエンド Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 
 ### バックエンド Backend
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://skillicons.dev/icons?i=golang,php" />
 
 ### データベース Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### ツール Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Orbstack](https://img.shields.io/badge/Orbstack-6366F1?style=for-the-badge&logo=docker&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ClaudeCode](https://img.shields.io/badge/ClaudeCode-FF6B4A?style=for-the-badge&logo=anthropic&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,vscode,docker" />
+
+### その他 Others
+
+- **Cursor** (AI-powered code editor)
+- **Orbstack** (Docker alternative)
+- **ClaudeCode** (AI development assistant)
 
 </div>
 
@@ -66,7 +61,7 @@ Hi! I'm **Haika（yamabukiruri）** !
 
 <div align="center">
 
-[![yamabukiruri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yamabukiruri&theme=tokyo-night&custom_title=yamabukiruri%27s%20Moonlit%20Contribution%20Graph&hide_border=true&area=true&area_color=4169E1&line=87CEEB&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![yamabukiruri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yamabukiruri&theme=tokyo-night&custom_title=Haika%27s%20Contribution%20Graph&hide_border=true&area=true&area_color=4169E1&line=87CEEB&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
